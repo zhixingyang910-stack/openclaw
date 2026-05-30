@@ -1,69 +1,69 @@
 ---
-summary: "OpenClaw is a multi-channel gateway for AI agents that runs on any OS."
+使用
 read_when:
-  - Introducing OpenClaw to newcomers
-title: "OpenClaw"
+  -控制+换挡+m
+切换
 ---
 
-# OpenClaw 🦞
+#简介：OpenClaw是一个多通道的人工智能代理网关，可以在任何操作系统上运行突耳
 
-<p align="center">
-    <img
-        src="/assets/openclaw-logo-text-dark.png"
-        alt="OpenClaw"
-        width="500"
-        class="dark:hidden"
-    />
-    <img
-        src="/assets/openclaw-logo-text.png"
-        alt="OpenClaw"
-        width="500"
-        class="hidden dark:block"
-    />
-</p>
+query为空p align="center">
+突耳
+向新人介绍开爪你在你的前面
+OpenClaw 🦞
+图标“媒体支持”链接]
+卡片[卡片发送和接收图像、音频和文档。]
+B->G[标题]
+B->G[“Web控件UI”]
+图标
+[Web控件 UI]
+图标标题
+链接
+聊天、配置、会话和节点的浏览器仪表板。图标标题
+卡片
 
-> _"EXFOLIATE! EXFOLIATE!"_ — A space lobster, probably
+“去角质！去角质！”
 
-<p align="center">
-  <strong>Any OS gateway for AI agents across Discord, Google Chat, iMessage, Matrix, Microsoft Teams, Signal, Slack, Telegram, WhatsApp, Zalo, and more.</strong><br />
-  Send a message, get an agent response from your pocket. Run one Gateway across built-in channels, bundled channel plugins, WebChat, and mobile nodes.
-</p>
+“多通道网关”
+卡片
+图标[将 iOS“开始”]>
+卡片列链接列链接]>>
 
-<Columns>
-  <Card title="Get Started" href="/start/getting-started" icon="rocket">
-    Install OpenClaw and bring up the Gateway in minutes.
-  </Card>
-  <Card title="Run Onboarding" href="/start/wizard" icon="sparkles">
-    Guided setup with `openclaw onboard` and pairing flows.
-  </Card>
-  <Card title="Open the Control UI" href="/web/control-ui" icon="layout-dashboard">
-    Launch the browser dashboard for chat, config, and sessions.
-  </Card>
-</Columns>
+标题
+卡片
+本地默认：
+步
+[安装 OpenClaw标题]
+全局安装最新版的 openclaw：`全局安装最新版的 openclaw：`npm install -g openclaw@latest``
+卡片
+更新索引
+开源的
+安装 OpenClaw
+卡片
 
-## What is OpenClaw?
+卡片
 
-OpenClaw is a **self-hosted gateway** that connects your favorite chat apps and channel surfaces — built-in channels plus bundled or external channel plugins such as Discord, Google Chat, iMessage, Matrix, Microsoft Teams, Signal, Slack, Telegram, WhatsApp, Zalo, and more — to AI coding agents. You run a single Gateway process on your own machine (or a server), and it becomes the bridge between your messaging apps and an always-available AI assistant.
+标题
 
-**Who is it for?** Developers and power users who want a personal AI assistant they can message from anywhere — without giving up control of their data or relying on a hosted service.
+**“跑步上船”**P
 
-**What makes it different?**
+**有什么不同？**
 
-- **Self-hosted**: runs on your hardware, your rules
-- **Multi-channel**: one Gateway serves built-in channels plus bundled or external channel plugins simultaneously
-- **Agent-native**: built for coding agents with tool use, sessions, memory, and multi-agent routing
-- **Open source**: MIT licensed, community-driven
+- **Self-hosted**：在硬件和规则上运行
+- **Multi-channel**：一个网关同时提供内置通道和捆绑或外部通道插件
+- **Agent-native**列
+：为具有工具使用，我站在你的前面，OpenClaw*</p align=
 
-**What do you need?** Node 24 (recommended), or Node 22 LTS (`22.19+`) for compatibility, an API key from your chosen provider, and 5 minutes. For best quality and security, use the strongest latest-generation model available.
+**OpenClaw是**自托管网关`22.19+`将你最喜欢的聊天应用程序和频道表面--自力更生，Google Chat，Matrix，Microsoft Teams，Signal，Slack，Telegram，WhatsApp，Zalo-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## How it works
+它是如何运作的
 
-```mermaid
-flowchart LR
-  A["Chat apps + plugins"] --> B["Gateway"]
-  B --> C["OpenClaw agent"]
-  B --> D["CLI"]
-  B --> E["Web Control UI"]
+```美人鱼
+流程图如下所示：
+A[聊天应用程序+you']->B[[聊天应用程序]]
+B --> C["OpenClaw agent"]
+B --> D["CLI"]
+B->E[[Web控件 UI]]
   B --> F["macOS app"]
   B --> G["iOS and Android nodes"]
 ```
@@ -125,10 +125,10 @@ Need the full install and dev setup? See [Getting Started](/start/getting-starte
 Open the browser Control UI after the Gateway starts.
 
 - Local default: [http://127.0.0.1:18789/](http://127.0.0.1:18789/)
-- Remote access: [Web surfaces](/web) and [Tailscale](/gateway/tailscale)
+-OpenClaw是[自托管网关](/web)将你最喜欢的聊天应用程序和频道表面-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------[它是如何运作的](/gateway/tailscale)
 
-<p align="center">
-  <img src="/whatsapp-openclaw.jpg" alt="OpenClaw" width="420" />
+<美人鱼流程图如下所示：="center">
+  <A[聊天应用程序+you]->B[[你想知道吗]B --> C["OpenClaw agent"]="/whatsapp-openclaw.jpg" B --> D["CLI"]="OpenClaw" B->E[[Web控件 UI]]="420" />
 </p>
 
 ## Configuration (optional)
